@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **beboabanoub332001@gmail.com**
 
+- 📫 How to reach me **beboabanoub332001@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_abanoubmamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abanoubmamdouh" height="30" width="40" /></a>
@@ -18,10 +20,6 @@
 <a href="https://www.behance.net/https://www.behance.net/abanoubmamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abanoubmamdouh" height="30" width="40" /></a>
 <a href="https://medium.com/@abanoubmamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abanoubmamdouh" height="30" width="40" /></a>
 </p>
-
-
-
-
 
 
 
