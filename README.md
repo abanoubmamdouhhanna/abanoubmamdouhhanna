@@ -44,6 +44,14 @@ Feel free to explore my projects and connect with me here on GitHub!
     <a href="http://www.medium.com/@abanoubmamdouh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32"></a>
     <a href="https://www.stackoverflow.com/users/13398224/abanoub-mamdouh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"></a>
     <a href="https://www.x.com/abanoub_mamdou7" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"></a>
+
+ <a href="https://www.dev.to/abanoubmamdouhhanna" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+    </picture>
+  </a>
 </div>
 
 <!-- Badges Section -->
