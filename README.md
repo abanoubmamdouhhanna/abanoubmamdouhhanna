@@ -15,7 +15,11 @@
 
 <!-- About Me Section -->
 <div class="intro-text">
-    "I have extensive experience with HTML, CSS, Bootstrap 5, JavaScript (ES6), ReactJS, NodeJS, and GitHub. I specialize in building Single Page Applications (SPA) and writing complex SQL queries with MySQL, as well as working with NoSQL databases like MongoDB. I'm also skilled in troubleshooting and resolving bugs in existing systems."
+Hi there! I'm Abanoub Mamdouh, a passionate MERN stack developer with a strong foundation in JavaScript. I specialize in building efficient, scalable web applications using MongoDB, Express.js, React.js, and Node.js.
+
+My expertise includes crafting RESTful APIs, integrating third-party services, and optimizing applications for the best user experience. I am always striving to enhance my skills and enjoy solving problems collaboratively with teams.
+
+Feel free to explore my projects and connect with me here on GitHub!
 </div>
 
 <p>🌍 I'm based in Cairo, Egypt</p>
