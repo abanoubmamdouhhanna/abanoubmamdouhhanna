@@ -12,9 +12,10 @@ Full-Stack Developer
 *   🌍  I'm based in Cairo ,Egypt
 *   ✉️  You can contact me at [abanoubmamdouhhanna@outlook.com](mailto:abanoubmamdouhhanna@outlook.com)<a href="https://www.github.com/abanoubmamdouhhanna" target="_blank" rel="noreferrer">
 <br>
+<img  align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 <img
                   src="https://img.shields.io/github/followers/abanoubmamdouhhanna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  <br>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=abanoubmamdouhhanna&label=Profile%20views&color=0e75b6&style=flat" alt="abanoubmamdouhhanna" />
 </p>
