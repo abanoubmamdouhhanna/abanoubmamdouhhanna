@@ -10,8 +10,11 @@ Full-Stack Developer
 "I have extensive experience with HTML, CSS, Bootstrap 5, JavaScript (ES6), ReactJS, NodeJS, and GitHub. I specialize in building Single Page Applications (SPA) and writing complex SQL queries with MySQL, as well as working with NoSQL databases like MongoDB. I'm also skilled in troubleshooting and resolving bugs in existing systems."
 
 *   🌍  I'm based in Cairo ,Egypt
-*   ✉️  You can contact me at [abanoubmamdouhhanna@outlook.com](mailto:abanoubmamdouhhanna@outlook.com)<a href="https://www.github.com/abanoubmamdouhhanna" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/abanoubmamdouhhanna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/abanoub_mamdou7" target="_blank" rel="noreferrer"><img
+*   ✉️  You can contact me at [abanoubmamdouhhanna@outlook.com](mailto:abanoubmamdouhhanna@outlook.com)<a href="https://www.github.com/abanoubmamdouhhanna" target="_blank" rel="noreferrer">
+<br>
+<img
+                  src="https://img.shields.io/github/followers/abanoubmamdouhhanna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
+<a href="https://www.x.com/abanoub_mamdou7" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/abanoub_mamdou7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
                 
