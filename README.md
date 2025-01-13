@@ -4,9 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-<img  align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-
-
 "I have extensive experience with HTML, CSS, Bootstrap 5, JavaScript (ES6), ReactJS, NodeJS, and GitHub. I specialize in building Single Page Applications (SPA) and writing complex SQL queries with MySQL, as well as working with NoSQL databases like MongoDB. I'm also skilled in troubleshooting and resolving bugs in existing systems."
 
 *   🌍  I'm based in Cairo ,Egypt
