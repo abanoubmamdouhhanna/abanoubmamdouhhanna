@@ -13,11 +13,7 @@ Full-Stack Developer
 *   ✉️  You can contact me at [abanoubmamdouhhanna@outlook.com](mailto:abanoubmamdouhhanna@outlook.com)<a href="https://www.github.com/abanoubmamdouhhanna" target="_blank" rel="noreferrer">
 <br>
 <img
-                  src="https://img.shields.io/github/followers/abanoubmamdouhhanna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
-<a href="https://www.x.com/abanoub_mamdou7" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/abanoub_mamdou7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
-                
+                  src="https://img.shields.io/github/followers/abanoubmamdouhhanna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                                
 ### Skills
 
