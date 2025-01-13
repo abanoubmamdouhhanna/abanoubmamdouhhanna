@@ -45,7 +45,7 @@
 
 <!-- Social Links Section -->
 <h3>Socials</h3>
-<div class="social-links">
+<div class="social-links" style="display: flex; gap: 50px;">
     <a href="https://www.github.com/abanoubmamdouhhanna" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></a>
     <a href="https://www.linkedin.com/in/abanoubmamdouh/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"></a>
     <a href="http://www.medium.com/@abanoubmamdouh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32"></a>
@@ -70,14 +70,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=abanoubmamdouhhanna&repo=DruggerApp-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
     </a>
 </div>
-
-<style>
-    .social-links {
-        display: flex;
-        justify-content: start;
-        gap: 10px;
-    }
-</style>
 
 </body>
 </html>
