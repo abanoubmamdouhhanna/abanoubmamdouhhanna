@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_abanoubmamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abanoubmamdouh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abanoubmamdouh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="abanoubmamdouh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abanoubmamdouh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abanoubmamdouh/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13398224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13398224" height="30" width="40" /></a>
 <a href="https://instagram.com/abanoub.mamdouh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abanoub.mamdouh_" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/abanoubmamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abanoubmamdouh" height="30" width="40" /></a>
