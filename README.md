@@ -1,44 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abanoub's Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1c1917;
-            color: white;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #0891b2;
-        }
-        .intro-text {
-            text-align: justify;
-            margin-bottom: 20px;
-        }
-        .social-links img {
-            margin-right: 10px;
-        }
-        .skills img {
-            margin: 5px;
-        }
-        .badge-container img {
-            border-radius: 10px;
-        }
-        .repo-container {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }
-        .repo-container a {
-            width: 45%;
-        }
-    </style>
-</head>
+
 <body>
 
 <h1>Hi! My name is Abanoub</h1>
