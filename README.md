@@ -43,7 +43,6 @@ Feel free to explore my projects and connect with me here on GitHub!
     <a href="https://www.linkedin.com/in/abanoubmamdouh/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"></a>
     <a href="http://www.medium.com/@abanoubmamdouh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32"></a>
     <a href="https://www.stackoverflow.com/users/13398224/abanoub-mamdouh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"></a>
-    <a href="https://www.x.com/abanoub_mamdou7" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"></a>
 
  <a href="https://www.dev.to/abanoubmamdouhhanna" target="_blank" rel="noreferrer">
     <picture>
