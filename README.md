@@ -1,7 +1,4 @@
-<h1>Hi</h1>
- <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
-
- <img  align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+<h1>Hi</h1><img  align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 <br>
 <h2>My name is Abanoub Mamdouh</h2>
