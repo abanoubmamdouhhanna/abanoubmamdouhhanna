@@ -45,7 +45,7 @@
 
 <!-- Social Links Section -->
 <h3>Socials</h3>
-<div class="social-links" style="display: flex; gap: 10px;">
+<div class="social-links" style="display: flex; gap: 50px;">
     <a href="https://www.github.com/abanoubmamdouhhanna" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></a>
     <a href="https://www.linkedin.com/in/abanoubmamdouh/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"></a>
     <a href="http://www.medium.com/@abanoubmamdouh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32"></a>
