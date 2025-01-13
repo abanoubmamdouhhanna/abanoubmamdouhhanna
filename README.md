@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_abanoubmamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abanoubmamdouh" height="30" width="40" /></a>
+<a href="https://twitter.com/abanoub_mamdou7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abanoubmamdouh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abanoubmamdouh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abanoubmamdouh/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13398224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13398224" height="30" width="40" /></a>
 <a href="https://medium.com/@abanoubmamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abanoubmamdouh" height="30" width="40" /></a>
