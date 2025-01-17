@@ -3,7 +3,7 @@
 
 <body>
 
-<h1>Hi! My name is Abanoub</h1>
+<h1>Hi! I am Abanoub Mamdouh</h1>
 <hr>
 
 <h2>Full-Stack Developer | MERN Specialist</h2>
